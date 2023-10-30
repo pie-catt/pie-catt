@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Pietro
-## Computer Science student @ [DIBRIS](https://dibris.unige.it/en) - University of Genova <br> Master degree Course - Software Security & Engineering
+## Computer Science student @[DIBRIS](https://dibris.unige.it/en) - University of Genova <br> Master degree Course - Software Security & Engineering
 
 - I developed a Syntax Highlighter for [RML](https://rmlatdibris.github.io/) using [Rouge](https://github.com/rouge-ruby/) for Bachelor's degree thesis project
 - Interested in Machine Learning and Software Security
