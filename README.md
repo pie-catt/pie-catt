@@ -1,7 +1,8 @@
 ## Hi there 👋 I'm Pietro
-## Computer Science student @ [DIBRIS](https://dibris.unige.it/en) - University of Genova
+## Computer Science student @ [DIBRIS](https://dibris.unige.it/en) - University of Genova <br> Master degree Course - Software Security & Engineering
 
-- 🔭 I’m currently working on a Syntax Highlighter for [RML](https://rmlatdibris.github.io/) using [Rouge](https://github.com/rouge-ruby/) for Bachelor's degree thesis project
+- I developed a Syntax Highlighter for [RML](https://rmlatdibris.github.io/) using [Rouge](https://github.com/rouge-ruby/) for Bachelor's degree thesis project
+- Interested in Machine Learning and Software Security
 
 ### Studied and used languages:
 
@@ -13,6 +14,8 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+            
   </p>
   
  ### Tools:
@@ -24,6 +27,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
 </p>
  
 
