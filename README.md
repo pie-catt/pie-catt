@@ -3,6 +3,7 @@
 
 - I developed a Syntax Highlighter for [RML](https://rmlatdibris.github.io/) using [Rouge](https://github.com/rouge-ruby/) for Bachelor's degree thesis project
 - Interested in Machine Learning and Software Security
+- Have a look at my Android weather app [WheaterNow](https://github.com/pie-catt/WeatherNow)
 
 ### Studied and used languages:
 
