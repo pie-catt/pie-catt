@@ -1,11 +1,15 @@
 ## Hi there 👋 I'm Pietro
-## Computer Science student @[DIBRIS](https://dibris.unige.it/en) - University of Genova @[UniGe](https://unige.it/en) <br> Master degree Course - Software Security & Engineering
+### Computer Science student @[DIBRIS](https://dibris.unige.it/en) - University of Genova @[UniGe](https://unige.it/en) <br> Master degree Course - Software Security & Engineering
+---
+- 🎓 I developed a Syntax Highlighter for [RML](https://rmlatdibris.github.io/) using [Rouge](https://github.com/rouge-ruby/) for my Bachelor's degree thesis project.
+- 🖥️ Interested in Software Testing, Software Security, and Machine Learning.
+- 📱 Have a look at my Android weather app [WheaterNow](https://github.com/pie-catt/WeatherNow).
+- 🗣️ Spoken languages: 
+  - 🇮🇹 Italian (native) 
+  - 🇬🇧 English (C1)
 
-- I developed a Syntax Highlighter for [RML](https://rmlatdibris.github.io/) using [Rouge](https://github.com/rouge-ruby/) for Bachelor's degree thesis project
-- Interested in Software Testing, Software Security, and Machine Learning
-- Have a look at my Android weather app [WheaterNow](https://github.com/pie-catt/WeatherNow)
 
-### Studied and used languages:
+### Studied and used programming languages:
 
 <p align= left>
 <a href = "https://cplusplus.com/reference/cstdlib/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /></a>
