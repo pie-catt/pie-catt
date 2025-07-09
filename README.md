@@ -4,6 +4,7 @@
 - 🎓 I developed a Syntax Highlighter for [RML](https://rmlatdibris.github.io/) using [Rouge](https://github.com/rouge-ruby/) for my Bachelor's degree thesis project.
 - 🖥️ Interested in Software Testing, Software Security, and Machine Learning.
 - 📱 Have a look at my Android weather app [WheaterNow](https://github.com/pie-catt/WeatherNow).
+- 🛡️ Regarding cybersecurity, take a look at my [SecureProxy](https://github.com/pie-catt/SecureProxy).
 - 🗣️ Spoken languages: 
   - 🇮🇹 Italian (native) 
   - 🇬🇧 English (C1)
